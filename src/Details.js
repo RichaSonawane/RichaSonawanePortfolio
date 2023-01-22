@@ -38,13 +38,13 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Richa Sonawane",
-  tagline: "I like to build things.",
+  tagline: "I love creating exceptional digital experience.",
   img: profile,
-  about: `Experienced and skilled Software Engineer having overall 7 years of functional testing experience across Banking/Consumer Goods/Insurance domain.
-  Venturing as a Frontend Developer who love to build exceptional digital experience.
+  about: `Experienced and skilled Software Engineer having overall 7 years of functional testing experience across Banking/Consumer Goods/Insurance domain,
+  venturing as a Frontend Developer who love to build things for web.
   Through my studies, I've gained a solid understanding of web development concepts, and have dedicated a lot of time to apply these concepts to real-world scenarios and applications.
   When I'm not trying to build, learning, exploring and thinking about how to make things better let it be 
-  code or my home interiors, you can catch me watching docuseries.`,
+  code or my home interiors, you can catch me watching documentaries.`,
 };
 
 // Enter your Social Media URLs here
@@ -107,31 +107,29 @@ export const projectDetails = [
   {
     title: "TripPlanner",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `I designed this application for user to know the current weather conditions of destination and manage daily activit's iternary list.I have used 2 APIs, open with API and Google Maps places API. `,
+    techstack: "HTML/CSS, JavaScript, Express, Cors, Sequel, Postgress db, API, Axios",
     previewLink: "https://www.loom.com/share/2bbc21dd109749f5a0bfaf0382a7df9e",
     githubLink: "https://github.com/RichaSonawane/CapstoneTripPlanner.git",
   },
   {
     title: "Movie Watchlist",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `This application can create a list of movies and displays them on the screen. User will be able to add different movies to a watchlist and cycle through pages of movies. `,
+    techstack: "JavaScript, React, UseEffect Hook, Modular CSS, Axios, TMDB Movie API ",
     previewLink: "https://www.loom.com/share/e406e09dc8e14c3083b7083b394251b1",
     githubLink:
       "https://github.com/RichaSonawane/Movie-watchlist-react-app.git",
   },
-  {
-    title: "Project title 3",
-    image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
+//   {
+//     title: "Project title 3",
+//     image: projectImage3,
+//     description: `This is sample project description random things are here in description This is sample
+// project lorem ipsum generator for dummy content`,
+//     techstack: "HTML/CSS, JavaScript",
+//     previewLink: "https://google.com",
+//     githubLink: "https://github.com",
+//   },
   //   {
   //     title: "Project title 4",
   //     image: projectImage4,
